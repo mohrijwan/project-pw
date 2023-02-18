@@ -43,7 +43,7 @@ button {
     border: 1px solid white;
     border-radius: 5px;
     font-weight: 700;
-    width: fit-content;
+    
 }
 
 button:hover {
