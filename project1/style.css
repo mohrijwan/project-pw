@@ -11,6 +11,7 @@ body{
         flex-direction: column;
         justify-content: space-between;
         background-image:url(/asets/pexels-photo-1939485.jpeg);
+        background-size: cover;
         
 }
 .logo{
